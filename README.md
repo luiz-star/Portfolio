@@ -72,35 +72,35 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0">Content Data Science</h3>
+                            <div class="subheading mb-3">Kfactor Academy </div>
+                            <p>Content teacher at EAD data science creating materials, codes, concepts. To ensure the students' learning process through content management. Determining the best ways and practices to bring knowledge to students.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                            <h3 class="mb-0">Position Member of the Machine Learning Committee I2AI</h3>
+                            <div class="subheading mb-3">I2AI - International Association of Artificial Intelligence</div>
+                            <p>This committee aims to spread and level knowledge of machine learning, demystifying technologies through the study of use cases, followed by debates not only about technology, but also about ethics, bias and other issues surrounding the use of these algorithms</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">January 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                            <h3 class="mb-0">I2AI associate member</h3>
+                            <div class="subheading mb-3">I2AI - International Association of Artificial Intelligence</div>
+                            <p>The I2AI (International Association of Artificial Intelligence) is an association that connects business, knowledge and technology, bringing together the different parts of an ecosystem to accelerate the sustainable adoption of Artificial Intelligence in the world.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">January 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                            <h3 class="mb-0">Technology Instrutor Data Science</h3>
+                            <div class="subheading mb-3">IMPACTA TECNOLOGIA - São Paulo, Brasil</div>
+                            <p>Track Training Instructor and Data Science Bootcamp and Machine Learning</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                        <div class="flex-shrink-0">January 2021 - Present<span class="text-primary"></span></div>
                     </div>
                 </div>
             </section>
@@ -111,21 +111,34 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
+                            <h3 class="mb-0">Universidad Europea del Atlântico</h3>
+                            <div class="subheading mb-3">Mestrado em Direção Estratégica em Tecnologias da Informação</div>
+                            <div>Especialização Engenharia de Software</div>
                             <p>GPA: 3.23</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
+                            <h3 class="mb-0">Pontifícia Universidade Católica do Rio de Janeiro - PUC Rio</h3>
+                            <div class="subheading mb-3">MBA Ciência de Dados</div>
                             <p>GPA: 3.56</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
-                    </div>
+                        <div class="flex-shrink-0"><span class="text-primary">January 2021 - July 2022</span></div>
+                    </div>    
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Universidade Cesumar- UNICESSUMAR</h3>
+                            <div class="subheading mb-3">Pós Graduação em Engenharia e Gestão da Produção</div>
+                            <p>GPA: 3.23</p>
+                        </div>
+                    <div class="flex-shrink-0"><span class="text-primary">January 2018 - December 2019</span></div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Universidade do Contestado - UNC</h3>
+                            <div class="subheading mb-3">Graduação em Tecnologia em Logística</div>
+                            <p>GPA: 3.56</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">January 2011 - December 2013</span></div>
                 </div>
             </section>
             <hr class="m-0" />
