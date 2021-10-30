@@ -165,19 +165,67 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
+                            Machine Learning
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
+                            Data analysis
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Functional Teams
+                            Data visualization
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
+                            Python
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Tableau
+                        <li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Git
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            PLN
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            SQL
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Deep Learning
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Statistic
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Business Intelligence
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Computer Vision
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Artificial Intelligence
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Data Warehouse
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            R Language
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Software Enginering for Data Science
                         </li>
                     </ul>
                 </div>
@@ -187,8 +235,9 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>Sou capaz de aplicar pensamento crítico e inteligência na exploração, tratamento e manipulação, visualização e análise de dados através de algoritmos estatístico e de Machine Learning com o objetivo de encontrar padrões, realizar predições e extrair insights poderosos para resolução de problemas de negócio</p>
+                    <p class="mb-0">Possuo um perfil curioso, flexível e dinâmico e isso me permite pesquisar, aprender, filtrar informações e compartilhá-los para decisão cooperativa.Com forte capacidade comunicativa e gerencial.
+</p>
                 </div>
             </section>
             <hr class="m-0" />
@@ -199,42 +248,54 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
+                            Formação Cientista de Dados
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
+                            Visualização de Dados e Design de Dashboards
                         </li>
-                        <li>
+                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
+                            Business Analytics
                         </li>
-                        <li>
+                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+                            Machine Learning
                         </li>
-                        <li>
+                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
+                            Engenharia de Dados com Hadoop e Spark
                         </li>
-                        <li>
+                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
+                            Big Data Real Time Analytics com Python e Spark
                         </li>
-                        <li>
+                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
+                            Certificado AI Technologies Foundation
                         </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Big Data Analytics com R e Microsoft Azure Machine Learning
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Scrum Web Developer
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Engenharia de Dados
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Excel
+                        </li>
+                         <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Power BI 
+                        </li>
+                        </li>                     
+                        
                     </ul>
                 </div>
             </section>
