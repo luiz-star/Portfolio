@@ -147,8 +147,8 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
-                    <ul class="list-inline dev-icons">
-                        <li class="list-inline-item"><i class="fab fa-Machine Learning"></i></li>
+                    <ul class="D:\Bueno\Downloads\mycollection.zip\png">
+                        <li class="list-inline-item"><i class="fab fa-Fotos - 001-data.png"></i></li>
                         <li class="list-inline-item"><i class="fab fa-Python"></i></li>
                         <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
                         <li class="list-inline-item"><i class="fab fa-angular"></i></li>
