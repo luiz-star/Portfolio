@@ -182,7 +182,7 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
                             Tableau
-                        <li>
+                        </li>
                          <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
                             Git
